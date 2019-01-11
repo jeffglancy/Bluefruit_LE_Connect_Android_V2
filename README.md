@@ -1,3 +1,8 @@
+# Jeffglancy fork
+
+This fork intends to modify the "Controls" screen with additional buttons, for use with a remote control vehicle.
+
+
 # Bluefruit_LE_Connect_Android_V2
 
 Android app for use with Bluefruit Bluetooth LE modules and dev boards from Adafruit.
